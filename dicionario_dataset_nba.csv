@@ -1,0 +1,55 @@
+﻿Campo original,Tradução,Explicação
+year,Ano,Ano da temporada da NBA
+name,Nome,Nome completo do jogador
+playerId,ID do jogador,Identificador único do jogador no sistema
+playerSlug,Slug do jogador,Versão simplificada do nome (para URLs)
+positionId,ID da posição,Identificador numérico da posição do jogador
+position,Posição,"Posição em quadra (armador, ala, pivô)"
+teamId,ID do time,Identificador numérico do time
+team,Time,Nome do time atual do jogador
+status,Status,"Situação (ativo, lesionado, suspenso etc.)"
+birthdate,Data de nascimento,Data em que o jogador nasceu
+birthplace,Local de nascimento,Cidade/país de nascimento
+college,Universidade,Instituição em que jogou antes da NBA
+draftinfo,Draft,Ano/rodada/posição em que foi escolhido no draft
+htwt,Altura e peso,Medidas físicas do jogador
+experience,Experiência,Anos jogados na NBA
+gamesPlayed,Jogos disputados,Quantidade de partidas jogadas
+minutes,Minutos totais,Total de minutos jogados
+avgMinutes,Média de minutos,Média de minutos jogados por partida
+points,Pontos,Total de pontos feitos
+avgPoints,Média de pontos,Média de pontos por jogo
+fieldGoalsMade,Arremessos convertidos,Total de cestas de quadra (2 ou 3 pontos) convertidas
+fieldGoalsAttempted,Arremessos tentados,Total de arremessos de quadra tentados
+fieldGoalPct,% de acerto FG,Percentual de acerto nos arremessos de quadra
+avgFieldGoalsMade,Média de acertos FG,Média de cestas de quadra convertidas por jogo
+avgFieldGoalsAttempted,Média de tentativas FG,Média de tentativas por jogo
+threePointFieldGoalsMade,Cestas de 3 convertidas,Total de cestas de 3 pontos feitas
+threePointFieldGoalsAttempted,Tentativas de 3 pontos,Total de tentativas de 3 pontos
+threePointFieldGoalPct,% de acerto 3PT,Percentual de acerto nas cestas de 3 pontos
+avgThreePointFieldGoalsMade,Média de acertos 3PT,Média de cestas de 3 pontos feitas por jogo
+avgThreePointFieldGoalsAttempted,Média de tentativas 3PT,Média de tentativas de 3 pontos por jogo
+freeThrowsMade,Lances livres convertidos,Total de pontos de lance livre
+freeThrowsAttempted,Lances livres tentados,Total de tentativas de lance livre
+freeThrowPct,% de acerto LL,Percentual de acerto nos lances livres
+avgFreeThrowsMade,Média de acertos LL,Média de lances livres convertidos por jogo
+avgFreeThrowsAttempted,Média de tentativas LL,Média de tentativas de lances livres por jogo
+rebounds,Rebotes,Total de rebotes (quando recupera a bola)
+avgRebounds,Média de rebotes,Média de rebotes por jogo
+assists,Assistências,Total de assistências (passes para pontos)
+avgAssists,Média de assistências,Média de assistências por jogo
+steals,Roubos de bola,Total de vezes que roubou a bola
+avgSteals,Média de roubos,Média de roubos por jogo
+blocks,Tocos,Total de bloqueios de arremesso
+avgBlocks,Média de tocos,Média de tocos por jogo
+turnovers,Perdas de bola,Total de vezes que perdeu a posse
+avgTurnovers,Média de perdas,Média de turnovers por jogo
+fouls,Faltas,Total de faltas cometidas
+avgFouls,Média de faltas,Média de faltas por jogo
+flagrantFouls,Faltas flagrantes,Faltas violentas/intencionais
+technicalFouls,Faltas técnicas,Faltas por comportamento antidesportivo
+ejections,Expulsões,Quantidade de vezes expulso de jogos
+doubleDouble,Duplo-duplo,Jogos com 10+ em dois fundamentos
+tripleDouble,Triplo-duplo,Jogos com 10+ em três fundamentos
+rankingSalary,Ranking salarial,Posição do jogador comparado aos demais em termos de salário
+salary,Salário,Valor recebido (geralmente por temporada)
